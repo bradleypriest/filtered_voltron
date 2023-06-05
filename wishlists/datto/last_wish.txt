@@ -1,0 +1,94 @@
+// The Supremacy
+//notes:Datto (PvE): We're gonna start with The Supremacy, 140 RPM kinetic sniper.
+While this does have some PvP viability with a roll like Snapshot and Opening Shot or Elemental Capacitor, in PvE world, things get pretty interesting.
+The roll that I am quite interested in is Rewind Rounds and Fourth Time's the Charm.
+With a setup like this, you are able to fire over 60 shots in a row provided you don't miss any crits. 
+I realize we are in Aisha's Embrace, Triple Tap, Fourth Time's the Charm meme territory here, but things are a bit different on a sniper vs. a scout. Bait and Switch is also available on this, which maybe has some potential, although I haven't exactly done the math just yet. Kinetic Tremors seems like a fun choice as well with some potential, but this is not a perk I've really investigated for myself just yet, looking to see what's up with it very soon, although Enhanced Kinetic Tremors is apparently only 2 shots to proc on this, so maybe something there.
+This is probably a gun I'd get the pattern for and then craft down the road if an established meta comes along that supports it.
+|tags:pve
+dimwishlist:item=2884596447&perks=3418782618,1354429876
+dimwishlist:item=2884596447&perks=3418782618,3891536761
+dimwishlist:item=2884596447&perks=3418782618,3078487919
+
+// Chattering Bone
+//notes:Datto (PvE): Chattering Bone is a 450 RPM pulse that has so many good options that I don't even know where to start.
+This is one of very few weapons in the game that can get the legendary Kill Clip and Rampage roll. No one really used it back then, but that was 5 years ago, things are different now, chuck in a reload speed mod in your gloves and you're chilling. 
+First column has Rangefinder potentially for PvP, Keep Away, Rapid Hit, Kill Clip, second column has Headseeker for PvP, Rampage and Kinetic Tremors. It is really tough to go wrong here, like REALLY tough to go wrong. 
+I'm most excited about some Rapid Hit and Kinetic Tremors action on this, gonna bust out the ol' Chromatic Fire pretty soon and see how we do, although keep in mind with Kinetic Tremors that most junk enemies in low end content will probably die before you proc Tremors. Definitely want Arrowhead Brake and a range perk to top this thing off.|tags:pve
+dimwishlist:item=501329015&perks=247725512,3425386926
+dimwishlist:item=501329015&perks=1015611457,3425386926
+dimwishlist:item=501329015&perks=247725512,3891536761
+dimwishlist:item=501329015&perks=1015611457,3891536761
+
+// Transfiguration
+//notes:Datto (PvE): Transfiguration, a 150 RPM scout, has what feels like almost the exact same perk potential as Chattering Bone and thus it is very hard to go wrong, although 150 RPM scouts aren't exactly making a ton of noise at the moment. But also, in most content, who really cares anyway, most things are good. 
+First column, Demolitionist, Rapid Hit, Keep Away, RAMPAGE, Rewind Round, 5 perks that are all very high quality. Second column, Kinetic Tremors, Kill Clip, Adrenaline Junkie. So many good perks. Grab 2 damage perks if you want, grab reload + damage, again, it is SO HARD to go wrong.|tags:pve
+dimwishlist:item=3885259140&perks=247725512,3891536761
+dimwishlist:item=3885259140&perks=3425386926,3891536761
+dimwishlist:item=3885259140&perks=3418782618,3891536761
+dimwishlist:item=3885259140&perks=3523296417,3891536761
+dimwishlist:item=3885259140&perks=3619207468,3891536761
+dimwishlist:item=3885259140&perks=247725512,3038247973
+dimwishlist:item=3885259140&perks=3425386926,3038247973
+dimwishlist:item=3885259140&perks=3418782618,3038247973
+dimwishlist:item=3885259140&perks=3523296417,3038247973
+dimwishlist:item=3885259140&perks=3619207468,3038247973
+dimwishlist:item=3885259140&perks=247725512,1015611457
+dimwishlist:item=3885259140&perks=3425386926,1015611457
+dimwishlist:item=3885259140&perks=3418782618,1015611457
+dimwishlist:item=3885259140&perks=3523296417,1015611457
+dimwishlist:item=3885259140&perks=3619207468,1015611457
+dimwishlist:item=3885259140&perks=247725512,11612903
+dimwishlist:item=3885259140&perks=3425386926,11612903
+dimwishlist:item=3885259140&perks=3418782618,11612903
+dimwishlist:item=3885259140&perks=3523296417,11612903
+dimwishlist:item=3885259140&perks=3619207468,11612903
+
+
+// Age-Old Bond
+//notes:Datto (PvE): Let's talk Age-Old Bond, a void auto-rifle, which is basically a unicorn nowadays, 360 RPM. In the first column, I'm not wilding out TOO hard, looking mainly at Repulsor Brace for those interested in void setups, but outside of that, I'm maybe feeling Stats for All or Dragonfly. I'm personally not the biggest fan of Fourth Time's on primary weapons, but to each their own if you can make it work for you. In the second column, Destabilizing Rounds is again there for you void enthusiasts out there, volatile is a bit rare when we don't have Volatile Flow in the season artifact and even though I'm not WILD about this perk either, it's not like it's terrible. You also have Kill Clip as a very reliable damage source, along with Golden Tricorn, although void is not AS ability spammy as other subclasses, on average anyway, not saying you can't build for ability spam. Collective Action is build dependent, I was loving it on Arc, but Arc can make a million Ionic Traces very easily. Completely depends on your ability to make the collectibles needed. And again, I'm going for Arrowhead and Accurized.
+|tags:pve
+dimwishlist:item=424291879&perks=839105230,3142289711,2848615171,3324494224
+dimwishlist:item=424291879&perks=839105230,3142289711,776531651,3324494224
+dimwishlist:item=424291879&perks=839105230,3142289711,1583705720,3324494224
+dimwishlist:item=424291879&perks=839105230,3142289711,2848615171,2610012052
+dimwishlist:item=424291879&perks=839105230,3142289711,776531651,2610012052
+dimwishlist:item=424291879&perks=839105230,3142289711,1583705720,2610012052
+dimwishlist:item=424291879&perks=839105230,3142289711,2848615171,1015611457
+dimwishlist:item=424291879&perks=839105230,3142289711,776531651,1015611457
+dimwishlist:item=424291879&perks=839105230,3142289711,1583705720,1015611457
+dimwishlist:item=424291879&perks=839105230,3142289711,2848615171,2048641572
+dimwishlist:item=424291879&perks=839105230,3142289711,776531651,2048641572
+dimwishlist:item=424291879&perks=839105230,3142289711,1583705720,2048641572
+
+
+// Techeun Force
+//notes:Datto (PvE): Techeun Force, a fusion rifle, 660 charge speed. So... this new perk, Controlled Burst? This perk is... it's pretty good. It is pretty darn good, it is bonus damage for simply shooting a target accurately. 20% more damage, Resevoir Burst is 25% on ONE shot for comparison. But honestly, what else are you really gonna use here, Golden Tricorn? I mean, well, ok, it's an arc weapon and arc is pretty good at ability kills, so maybe bad example, but still. There are perks that complement this so well in the first slot too, Rewind AND Reconstruction. You could even go Kill Clip because it stacks and you could get 4, maybe 5 shots off in that Kill Clip window. That is the setup to get as far as I'm concerned. You could go Arrowhead and Accurized again here, but I might go for an extra shot in the mag.|tags:pve
+dimwishlist:item=3591141932&perks=3418782618,2594592626
+dimwishlist:item=3591141932&perks=1523832109,2594592626
+
+
+// Nation of Beasts
+//notes:Datto (PvE): Nation of Beasts, the OG hand cannon god, arc 140 RPM, what do we have? We have Voltshot. And uhh...hmm. Well... ok. Dragonfly in the first column I guess brings it back to its old school days, but I'm not crazy about it. Outside of that I mean... Keep Away? Perpetual Motion? Not a ton of great options in the first slot, not gonna lie. Second Column has some heat, Voltshot, Explosive Payload, Kill Clip I guess. Not as much heat here as I was anticipating though, this is kind of low on my list right now, especially considering SMGs are just absolute beasts in PvE still and have been for a long time. PvP wise, I suppose Opening Shot or Perpetual Motion and like, well, also Explosive Payload or Kill Clip. Again, hunting for range minor perks.
+|tags:pve
+dimwishlist:item=70083888&perks=2848615171,3038247973
+dimwishlist:item=70083888&perks=1428297954,3038247973
+dimwishlist:item=70083888&perks=2848615171,1015611457
+dimwishlist:item=70083888&perks=1428297954,1015611457
+dimwishlist:item=70083888&perks=2848615171,2173046394
+dimwishlist:item=70083888&perks=1428297954,2173046394
+
+
+// Tyranny of Heaven
+//notes:Datto (PvE): Tyranny of Heaven, solar lightweight bow. I've said my piece of bows regarding PvE, I really don't think draw time and impact matter that much for the average player and also that if you're gonna use a bow in PvE, you should probably just use an exotic one. That being said... Incandescent seems to be the most popular choice here and while it's not exactly my favorite choice based on where I'D be using a bow, there are plenty of people using bows in lower tier content and if you're doing that, then ok. Dragonfly, Explosive Head and Archer's Tempo AND Successful Warm-Up all in the first column, I'm still an Archer's Tempo guy, but you definitely have your options to pick from here. In the second column, it's Incandescent or bust for a lot of people and I am sort of on board. Golden Tricorn I don't think gets as much value here because of the limitations of the bow itself, you can only fire so many shots, but it's not a terrible choice, same with Collective Action. Go for Agile Bowstring and Carbon or Combat Arrow Shaft.|tags:pve
+dimwishlist:item=3388655311&perks=3768438372,2848615171,4293542123
+dimwishlist:item=3388655311&perks=3768438372,3365897133,4293542123
+dimwishlist:item=3388655311&perks=3768438372,201365942,4293542123
+dimwishlist:item=3388655311&perks=3768438372,2652708987,4293542123
+
+
+// Apex Predator
+//notes:Datto (PvE): Finally, Apex Predator, solar rocket. Notorious for being just absolutely terrible for years and years, this rocket has come back to say hey, I'm here idiots, look at my perks. Reconstruction, Bait and Switch. Reconstruction, Explosive Light, Demolitionist, Tracking, you are loaded up here. Surrounded is there for the few times THAT can work. Demolitionist is probably going to fall a bit out of favor as Starfire Protocol got pretty destroyed for single target damage builds and Demo rockets were a big part of that. Reconstruction however is not exactly the speediest reload perk. Sure, you'll start a phase with 2 rockets, but if your damage phase is all rockets, you're still gonna need to manually reload that sucker. If you're doing Izanagi swapping, then it's just a glorified Auto-Loading Holster. But hey, Hezen Vengeance finally has some competition, arguably better than Hezen depending on the situation, time will tell if this thing gets attention in the long term. Oh but... also. Slideways is on this thing. Which means you can slide to reload. Shoot, slide, shoot, slide, etc. This was a thing back on Ignition Code, a special ammo grenade launcher, quite a while ago and I'm not sure how much it really caught on overall. Rockets are different, but there is a 3 second cooldown, so I'm not sure how much this will be popular for damage phases, but it is very convenient outside of that.|tags:pve
+dimwishlist:item=1851777734&perks=1523832109,3194351027
+dimwishlist:item=1851777734&perks=1523832109,3078487919
+
